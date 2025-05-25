@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/devbansal-portfolio/static/css/main.db683005.chunk.css",
-    "main.js": "/devbansal-portfolio/static/js/main.2ad027a3.chunk.js",
-    "main.js.map": "/devbansal-portfolio/static/js/main.2ad027a3.chunk.js.map",
-    "runtime~main.js": "/devbansal-portfolio/static/js/runtime~main.1a722630.js",
-    "runtime~main.js.map": "/devbansal-portfolio/static/js/runtime~main.1a722630.js.map",
-    "static/js/2.9683e878.chunk.js": "/devbansal-portfolio/static/js/2.9683e878.chunk.js",
-    "static/js/2.9683e878.chunk.js.map": "/devbansal-portfolio/static/js/2.9683e878.chunk.js.map",
-    "index.html": "/devbansal-portfolio/index.html",
-    "precache-manifest.3e77c0653e9d2b2a9be75b2679a451fc.js": "/devbansal-portfolio/precache-manifest.3e77c0653e9d2b2a9be75b2679a451fc.js",
-    "service-worker.js": "/devbansal-portfolio/service-worker.js",
-    "static/css/main.db683005.chunk.css.map": "/devbansal-portfolio/static/css/main.db683005.chunk.css.map"
-  }
+    "main.css": "/static/css/main.9ada17f1.css",
+    "main.js": "/static/js/main.5ffb5322.js",
+    "index.html": "/index.html",
+    "main.9ada17f1.css.map": "/static/css/main.9ada17f1.css.map",
+    "main.5ffb5322.js.map": "/static/js/main.5ffb5322.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ada17f1.css",
+    "static/js/main.5ffb5322.js"
+  ]
 }
